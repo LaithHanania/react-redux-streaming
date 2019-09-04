@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "drasm",
+      "description": "sdgfar",
+      "id": 1
+    },
+    {
+      "title": "other st",
+      "description": "sdbsgf",
+      "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "This was made by me",
+      "userId": "100195325017328313145",
+      "id": 3
+    },
+    {
+      "title": "I created this stream test",
+      "description": " this was patched to test edit",
+      "userId": "100195325017328313145",
+      "id": 4
+    },
+    {
+      "title": "programmatic nav",
+      "description": "you should not see this on the form page! fsdgsf  gfsdf",
+      "id": 5
+    },
+    {
+      "title": "test",
+      "description": "please guhjkl",
+      "id": 6
+    }
+  ]
+}
