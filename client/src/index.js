@@ -32,5 +32,3 @@ ReactDOM.render(
     </Provider>,
     document.querySelector('#root')
 );
-
-//OAuth Client ID: 235215588910-022ltpdk5eqsad30129pas27v1vsgk57.apps.googleusercontent.com

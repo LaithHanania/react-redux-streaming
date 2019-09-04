@@ -27,7 +27,7 @@ componentDidMount(){
     //so the .then() executes after the library has been initialized
     window.gapi.load('client:auth2', ()=>{
         window.gapi.client.init({
-            clientId: '235215588910-022ltpdk5eqsad30129pas27v1vsgk57.apps.googleusercontent.com',
+            clientId: 'OAuth Key',
             scope: 'email'
         }).then(()=>{
             this.auth = window.gapi.auth2.getAuthInstance(); //after running this, inside any other function inside my class
